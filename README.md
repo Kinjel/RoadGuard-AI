@@ -80,7 +80,7 @@ During this course, I gained practical knowledge of Generative AI and its real-w
 
 </p>
 <p>
-  <a href="https://github.com/sure-trust/KINJEL-SHARMA-g4-gen-ai/blob/main/Course%20report/RoadGuard_AI.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Kinjel/RoadGuard-AI/blob/main/RoadGuard_AI.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
