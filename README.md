@@ -132,8 +132,8 @@ During my internship period, I participated in community service initiatives aim
 <!-- change url below with your image urls (inside  src='')-->
 
 <div align="center">
-<img src="https://github.com/Kinjel/RoadGuard-AI/blob/main/assets/1.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/Kinjel/RoadGuard-AI/blob/main/assets/2.jpeg" alt="Community Service Photo 2" width="30%">
+<img src="https://raw.githubusercontent.com/Kinjel/RoadGuard-AI/main/assets/1.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://raw.githubusercontent.com/Kinjel/RoadGuard-AI/main/assets/2.jpeg" alt="Community Service Photo 2" width="30%">
 </div>
 
 ---
